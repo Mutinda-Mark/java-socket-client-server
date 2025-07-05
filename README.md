@@ -76,9 +76,13 @@ Server-side:
 Client-side:
 ![image](https://github.com/user-attachments/assets/ccb3fab2-b0ed-4f39-bb9d-af6600fb450a)
 
-💬 Communication Flow
-Type messages on the client terminal → server receives and replies
-Server's reply is displayed on the client terminal
-This continues until either side types bye
-Both terminals display Connection Terminated
+---
 
+##💬 Communication Flow
+- Type messages on the client terminal → server receives and replies
+- Server's reply is displayed on the client terminal
+- This continues until either side types bye
+- Both terminals display Connection Terminated
+
+##📜 License
+This project is open-source and available under the MIT License.
