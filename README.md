@@ -36,25 +36,25 @@ JavaSocketProject/
   ```bash
   git clone https://github.com/Mutinda-Mark/java-socket-client-server.git
   cd java-socket-client-server
-
+```
 
 ### 2. Compile the Code
 Compile Server:
   ```bash
   cd server
   javac MyServer.java
-
+```
 Compile Client:
   ```bash
   cd ../client
   javac MyClient.java
-
+```
 ### 3. Run the Server
 In a terminal window:
    ```bash
     cd server
     java MyServer
-
+```
 Output:
 Server Initiated, Waiting for Client to Connect...
 
@@ -63,7 +63,7 @@ In a second terminal window:
   ```bash
   cd client
   java MyClient
-
+```
 Output:
 Connected to Server, Please type your message and hit Enter to send
 
