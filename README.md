@@ -55,7 +55,7 @@ In a terminal window:
     cd server
     java MyServer
 ```
-###Output:
+### Output:
 Server Initiated, Waiting for Client to Connect...
 
 ## 4. Run the Client
@@ -64,7 +64,7 @@ In a second terminal window:
   cd client
   java MyClient
 ```
-###Output:
+### Output:
 Connected to Server, Please type your message and hit Enter to send
 
 ---
@@ -73,16 +73,16 @@ Connected to Server, Please type your message and hit Enter to send
 ###Server-side:
 ![image](https://github.com/user-attachments/assets/55a85fdd-a315-46cf-b0bd-73ae2ba73012)
 
-###Client-side:
+### Client-side:
 ![image](https://github.com/user-attachments/assets/ccb3fab2-b0ed-4f39-bb9d-af6600fb450a)
 
 ---
 
-##💬 Communication Flow
+## 💬 Communication Flow
 - Type messages on the client terminal → server receives and replies
 - Server's reply is displayed on the client terminal
 - This continues until either side types bye
 - Both terminals display Connection Terminated
 
-##📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
