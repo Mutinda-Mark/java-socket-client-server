@@ -55,7 +55,7 @@ In a terminal window:
     cd server
     java MyServer
 ```
-Output:
+###Output:
 Server Initiated, Waiting for Client to Connect...
 
 ## 4. Run the Client
@@ -64,16 +64,16 @@ In a second terminal window:
   cd client
   java MyClient
 ```
-Output:
+###Output:
 Connected to Server, Please type your message and hit Enter to send
 
 ---
 
 ## Conversation 
-Server-side:
+###Server-side:
 ![image](https://github.com/user-attachments/assets/55a85fdd-a315-46cf-b0bd-73ae2ba73012)
 
-Client-side:
+###Client-side:
 ![image](https://github.com/user-attachments/assets/ccb3fab2-b0ed-4f39-bb9d-af6600fb450a)
 
 ---
