@@ -11,13 +11,13 @@ The goal of this project is to help you understand how distributed systems work 
 ---
 
 ## 📁 Project Structure
-
+```text
 JavaSocketProject/
 ├── client/
 │ └── MyClient.java
 └── server/
 └── MyServer.java
-
+```
 
 ---
 
@@ -70,7 +70,7 @@ Connected to Server, Please type your message and hit Enter to send
 ---
 
 ## Conversation 
-###Server-side:
+### Server-side:
 ![image](https://github.com/user-attachments/assets/55a85fdd-a315-46cf-b0bd-73ae2ba73012)
 
 ### Client-side:
